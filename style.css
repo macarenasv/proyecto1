@@ -1,4 +1,42 @@
 .navbar-brand{
  position: absolute;
+ margin: 0;
+ padding: 0;
+ border: 0;
  
 }
+
+.barra{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #EDE6FD;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-weight: 600;
+    
+}
+
+.navbar-nav{
+    margin: 0;
+    padding: 0;
+    border: 0; 
+   
+}
+
+.jumbotron{
+    margin: 0;
+    padding: 0;
+    border: 0; 
+}
+   
+.texto{
+    justify-self: center;
+}
+/* 
+.carousel-item{
+width: 100vh;
+opacity: 0.8;
+
+} */
+
