@@ -1,3 +1,20 @@
+
+.fondo{
+    background-color: #EDE6FD;
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #EDE6FD;
+    
+    
+}
+.logo{
+    padding: 10px 10px;
+   
+}
 .navbar-brand{
  position: absolute;
  margin: 0;
@@ -6,16 +23,6 @@
  
 }
 
-.barra{
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background-color: #EDE6FD;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:larger;
-    font-weight: 600;
-    
-}
 
 .navbar-nav{
     margin: 0;
@@ -24,15 +31,35 @@
    
 }
 
-.jumbotron{
-    margin: 0;
-    padding: 0;
-    border: 0; 
+
+.servicios{
+  margin-top: 20px;
+    color: #8b4d96;
+  text-align: center
 }
-   
-.texto{
-    justify-self: center;
+
+.boton{
+    background-color: #8b4d96;
+    border-color: #8b4d96;
 }
+
+.cajamaca{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.cajamaca2{
+    margin-top: 200px;
+    color: #8b4d96;
+    text-align: justify;
+}
+.fuente{
+  line-height:1.8;
+  font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-weight: 600; 
+    color: #8b4d96; 
+}
+
 /* 
 .carousel-item{
 width: 100vh;
