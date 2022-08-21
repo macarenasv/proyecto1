@@ -1,9 +1,13 @@
+.fondo{
+    background-color: #EDE6FD;
+}
 
 .navbar {
     margin: 0;
     padding: 0;
     border: 0;
     background-color: #EDE6FD;
+
 
 }
 
@@ -72,7 +76,7 @@
     background-color: #8b4d96;
 }
 
-.pie {
+.pie{
     display: flex;
     flex-direction: row;
     justify-content: center;
